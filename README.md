@@ -1,8 +1,7 @@
-- 👋  سلام،من سپهرم
-- 👀 به پایتون علافه دارم
-- 🌱 الان دارم جاوا اسکریپت یاد میگیرم تا بتونم توسعه دهنده وب هستم
-- 💞️ اگه شما هم مثل من یه توسعه دهنده جونیور و کم تجربه هستید،بیاید با هم آشنا شیم!
-- 📫 من رو تو تلگرام با https://t.me/DarajeHimself پیدا کنید!
+- 👋  hi it's sepehr
+- 👀 a junior frontend developer
+- 🌱 i code with Html,Css and Js and I have recently started to learn php and react to become a fullstack developer
+- 📫 you can find me at telegram with https://t.me/DarajeHimself 
 
 <!---
 dosepehr/dosepehr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
