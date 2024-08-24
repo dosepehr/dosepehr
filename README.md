@@ -19,21 +19,10 @@
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dosepehr&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
           alt="1999AZZAR :: overall Top Langs " />
       </p>
-        <p align="center">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dosepehr&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dosepehr&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: Top Langs by commit" />
-        </p>
 
 
 
-
-
-[![wakatime](https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=social)](https://wakatime.com/@8cc8aa38-4041-409b-9d27-a85e5b897ad4)
-[![GitHub followers](https://img.shields.io/github/followers/dosepehr.svg?style=social&label=Followers)](https://github.com/Ahmad-shaikh575?tab=followers)
-![dosepehr GitHub stats](https://github-readme-stats.vercel.app/api?username=dosepehr&show_icons=true&theme=radical) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dosepehr&theme=radical)](https://git.io/streak-stats) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dosepehr&theme=gruvbox)](https://git.io/streak-stats) 
 
 
 
