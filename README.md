@@ -1,11 +1,10 @@
-<h1 align="center"><b>Hello World!</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hello World!    </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h1 align="center" style="border-bottom: none;"><b>I'm Sepehr 😄</b></h1>
 
 <div align="center">
   <img alt="GIF" height="160px" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" />
   <img alt="GIF" height="160px" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" />
   <img alt="GIF" height="160px" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" />
-  <img alt="GIF" height="160px" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" />
   <img alt="GIF" height="160px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWFqa2pvNmY0Z2JlZXI5NHk0Y3NwMWE3dXgyeW51YTV1Y2R6ZXZjYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fsEaZldNC8A1PJ3mwp/giphy.gif" />
 </div>
 
