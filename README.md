@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hello World! , I'm Sepehr </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hello World!</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h1 align="center" style="border-bottom: none;"><b>I'm Sepehr 😄</b></h1>
 
 <div align="center">
