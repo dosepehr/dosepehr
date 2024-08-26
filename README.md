@@ -5,7 +5,7 @@
   <img alt="GIF" height="160px" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" />
   <img alt="GIF" height="160px" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" />
   <img alt="GIF" height="160px" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" />
-  <img alt="GIF" height="100px" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" />
+  <img alt="GIF" height="160px" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" />
   <img alt="GIF" height="160px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWFqa2pvNmY0Z2JlZXI5NHk0Y3NwMWE3dXgyeW51YTV1Y2R6ZXZjYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fsEaZldNC8A1PJ3mwp/giphy.gif" />
 </div>
 
