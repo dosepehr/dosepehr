@@ -22,7 +22,6 @@
 
 <div>
   <samp>
-    <h2 align="center">Github stats</h2>
     <br/>
     <p align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dosepehr&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
