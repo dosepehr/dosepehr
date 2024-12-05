@@ -13,6 +13,14 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs" height="100" width="100">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" height="100" width="100">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg" alt="redux" height="100" width="100">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" height="100" width="100">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" alt="socket.io" height="100" width="100">
+</p>
+
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
