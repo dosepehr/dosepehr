@@ -5,7 +5,6 @@
   <img alt="GIF" height="160px" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" />
   <img alt="GIF" height="160px" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" />
   <img alt="GIF" height="160px" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" />
-<!--   <img alt="GIF" height="160px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWFqa2pvNmY0Z2JlZXI5NHk0Y3NwMWE3dXgyeW51YTV1Y2R6ZXZjYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fsEaZldNC8A1PJ3mwp/giphy.gif" /> -->
 </div>
 
 
@@ -20,6 +19,8 @@
   <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs" height="80" width="80">&nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="socket.io" height="80" width="80">&nbsp;&nbsp;&nbsp;
     <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="socket.io" height="80" width="80">&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="socket.io" height="80" width="80">&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="socket.io" height="80" width="80">&nbsp;&nbsp;&nbsp;
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" height="80" width="80">
 
 </p>
